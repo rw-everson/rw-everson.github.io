@@ -1,0 +1,792 @@
+<!DOCTYPE html>
+<!--
+	Urban by TEMPLATED	templated.co @templatedco	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)-->
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <title>Rosa Wallace Everson - CV</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="assets/css/main.css">
+  </head>
+  <body class="subpage" style="                                                                                                                                                     color: black;">
+    <!-- Header -->
+    <header id="header">
+      <div class="logo"><a href="index.html">R. W. Everson</a> </div>
+      <a href="#menu">Menu</a> </header>
+    <!-- Nav -->
+    <nav id="menu">
+      <ul class="links">
+        <li><a href="index.html">Home</a></li>
+        <li><a href="research.html">Research</a></li>
+        <li><a href="cv.html">CV</a></li>
+        <!--   <li><a href="pubs.html">Publications</a></li> -->
+      </ul>
+    </nav>
+    <!-- Main -->
+    <div id="main">
+      <!-- Section -->
+      <section class="wrapper">
+        <div class="inner">
+          <header class="align-center">
+            <h1>Curriculum Vitae</h1>
+            <!--         <p>Download PDF</p> --> </header>
+          <div class="body">
+            <h2> Rosa Wallace Everson</h2>
+            <h3>Education and Employment</h3>
+            <style>
+                tr.white { border: 0px solid #ffffff; }
+                td.w { background-color: white; border-color: white; }
+              	.indent {   padding-left: 20pt;   padding-right: 0pt; }
+              </style>
+            <table>
+              <tbody>
+                <tr class="white">
+                  <td class="w">Postdoctoral Research Associate, Physics and
+                    Astronomy<br>
+                    University of North Carolina at Chapel Hill - Chapel Hill,
+                    NC<br>
+                    PI: Carl Rodriguez</td>
+                  <td class="w" width="110pt">2024-present</td>
+                </tr>
+                <tr class="white">
+                  <td class="w">PhD, Astronomy &amp; Astrophysics<br>
+                    University of California, Santa Cruz - Santa Cruz, CA<br>
+                    Advisor: Enrico Ramirez-Ruiz</td>
+                  <td class="w" width="110pt">2024</td>
+                </tr>
+                <tr class="white">
+                  <td class="w">MSc, Astronomy &amp; Astrophysics<br>
+                    University of California, Santa Cruz - Santa Cruz, CA</td>
+                  <td class="w" width="110pt">2019</td>
+                </tr>
+                <tr class="white">
+                  <td class="w">BS Honors, Physics <font color="grey"><i>Summa
+                        cum Laude</i></font><br>
+                    University of Colorado Denver - Denver, CO<br>
+                    Advisors: Mausumi Dikpati (HAO/NCAR) &amp; James Dove (MSU
+                    Denver)
+                    <!--    <div class="indent">Honors Thesis: <i>Observationally
+                        Constrained Potential-Field Source-Surface                        Modeling of the Solar Corona: Time-Evolution of 3D                        Global Coronal Structure</i></div> -->
+                  </td>
+                  <td class="w">2017</td>
+                </tr>
+                <tr class="white">
+                  <td class="w">BA, Theatre <font color="grey"><i>Magna cum
+                        Laude</i></font><br>
+                    Meredith College - Raleigh, NC</td>
+                  <td class="w">2007</td>
+                </tr>
+              </tbody>
+            </table>
+            <h3>Fellowships, Grants, and Awards</h3>
+            <table>
+              <tbody>
+                <tr class="white">
+                  <td class="w">
+                    <h4>National</h4>
+                    ARCS Foundation Scholarship Award</td>
+                  <td class="w" width="110pt">
+                    <h4>&nbsp;</h4>
+                    2022</td>
+                </tr>
+                <tr class="white">
+                  <td class="w"> National Osterbrock Leadership Program
+                    Fellowship, American Astronomical Society</td>
+                  <td class="w" width="110pt"> 2021-2024</td>
+                </tr>
+                <tr class="white">
+                  <td class="w"> Martin and Beate Block Winter Award, Aspen
+                    Center for Physics</td>
+                  <td class="w" width="110pt">2019</td>
+                </tr>
+                <tr class="white">
+                  <td class="w">NSF Graduate Research Fellowship</td>
+                  <td class="w">2017-2022</td>
+                </tr>
+                <tr class="white">
+                  <td class="w">Chambliss Astronomy Achievement Student Award,
+                    229th AAS Meeting</td>
+                  <td class="w">2017</td>
+                </tr>
+                <tr class="white">
+                  <td class="w">FAMOUS Travel Grant, American Astronomical
+                    Society</td>
+                  <td class="w">2016</td>
+                </tr>
+                <tr class="white">
+                  <td class="w">OSA Poster Award for Theoretical/Computational
+                    Physics, 2016 Quadrennial Physics Congress</td>
+                  <td class="w">2016</td>
+                </tr>
+                <tr class="white">
+                  <td class="w">APS Undergraduate Research Presentation Award,
+                    APS April Meeting</td>
+                  <td class="w">2016</td>
+                </tr>
+                <tr class="white">
+                  <td class="w">Society of Physics Students Outstanding
+                    Leadership Award</td>
+                  <td class="w">2016</td>
+                </tr>
+                <tr class="white">
+                  <td class="w">Great Lakes National Scholarship</td>
+                  <td class="w">2014-2017</td>
+                </tr>
+                <tr class="white">
+                  <td class="w">
+                    <h4>Institutional</h4>
+                    President's Dissertation-Year Fellowship, University of
+                    California, Santa Cruz </td>
+                  <td class="w">
+                    <h4>&nbsp;</h4>
+                    2023-2024</td>
+                </tr>
+                <tr class="white">
+                  <td class="w">Vera Rubin Fellowship, Dept. of Astronomy &amp;
+                    Astrophysics, University of California, Santa Cruz</td>
+                  <td class="w">2020-2024</td>
+                </tr>
+                <tr class="white">
+                  <td class="w">Whitford Prize, Dept. of Astronomy &amp;
+                    Astrophysics, University of California, Santa Cruz </td>
+                  <td class="w">2019</td>
+                </tr>
+                <tr class="white">
+                  <td class="w">Osterbrock Leadership Program Fellowship, Dept.
+                    of Astronomy &amp; Astrophysics, University of California,
+                    Santa Cruz</td>
+                  <td class="w">2018-2021</td>
+                </tr>
+                <tr class="white">
+                  <td class="w">Eugene V. Cota-Robles Fellowship, University of
+                    California, Santa Cruz</td>
+                  <td class="w">2017-2023</td>
+                </tr>
+                <tr class="white">
+                  <td class="w">Regents Fellowship, University of California,
+                    Santa Cruz</td>
+                  <td class="w">2017</td>
+                </tr>
+                <tr class="white">
+                  <td class="w">University of Colorado Denver:<br>
+                    <div class="indent"> Dean's List Colorado Merit Scholarship,
+                      College of Liberal Arts &amp; Sciences<br>
+                      Phyllis Weisheit Schultz Scholarship, College of Liberal
+                      Arts &amp; Sciences<br>
+                      William Robert Simmons Scholarship, Physics Department<br>
+                      Smilodon Scholarship, Physics Department<br>
+                      Academic Athlete Scholarship, Alumni Association </div>
+                  </td>
+                  <td class="w">2015-2017</td>
+                </tr>
+              </tbody>
+            </table>
+            <h3>Publications</h3>
+            <i>Summary: 12 total (4 in review), 3 first author, 3 major
+              contributor</i>
+            <!-- Upcoming: Rewa? -->
+            <table>
+              <tbody>
+                <tr class="white">
+                  <td class="w">"Population Synthesis of Thorne-Żytkow Objects:
+                    Rejuvenated Donors and Unexplored Progenitors in the Common
+                    Envelope Formation Channel"<br>
+                    Nathaniel, K., Vigna-Gómez, A., Grichener, A., Farmer, R.,
+                    Renzo, M., and <b>Everson, R.W.</b>, 2024, Submitted to <em>Astronomy
+                      &amp; Astrophysics</em>; <a href="https://ui.adsabs.harvard.edu/abs/2024ApJ...971..132E">NASA/ADS</a></td>
+                </tr>
+                <tr class="white">
+                  <td class="w">"The Evolution of Binaries Embedded Within
+                    Common Envelopes"<br>
+                    Rosselli-Calderon, A., Yarza, R., Murguia-Berthier, A.,
+                    Rohoza, V., <b>Everson, R.W.</b>, Antoni, A., MacLeod, M.,
+                    &amp; Ramirez-Ruiz, E., 2024, Submitted to <em>The
+                      Astrophysical Journal</em>; <a href="https://ui.adsabs.harvard.edu/abs/2024arXiv240408037R">NASA/ADS</a></td>
+                </tr>
+                <tr class="white">
+                  <td class="w">"Rethinking Thorne-Żytkow Object Formation:
+                    Assembly via Common Envelope in Field Binaries"<br>
+                    <b>Everson, R.W.</b>, Hutchinson-Smith, T., Vigna-Gómez, A.,
+                    &amp; Ramirez-Ruiz, E., 2024, <em>The Astrophysical Journal</em>,
+                    971, 132; <a href="https://ui.adsabs.harvard.edu/abs/2023arXiv231008658E">NASA/ADS</a></td>
+                </tr>
+                <tr class="white">
+                  <td class="w">"Rethinking Thorne-Żytkow Object Formation: The
+                    Fate of X-ray Binary LMC X-4 and Implications for Ultra-long
+                    Gamma-ray Bursts"<br>
+                    Hutchinson-Smith, T., <b>Everson, R.W.</b>, Batta, A.,
+                    Yarza, R., Twum, A.A., Law-Smith, J.A.P., &amp;
+                    Ramirez-Ruiz, E., 2023, Submitted to <em>The Astrophysical
+                      Journal</em>; <a href="https://ui.adsabs.harvard.edu/abs/2023arXiv231106741H">NASA/ADS</a></td>
+                </tr>
+                <tr class="white">
+                  <td class="w">"Hydrodynamics and survivability during
+                    post-main-sequence planetary engulfment"<br>
+                    Yarza, R., Razo-López, N.B., Murguia-Berthier, A., <b>Everson,
+                      R.W.</b>, Antoni, A., MacLeod, M., Soares-Furtado, M.,
+                    Lee, D., &amp; Ramirez-Ruiz, E., 2023, <em>The
+                      Astrophysical Journal</em>, 954, 176; <a href="https://ui.adsabs.harvard.edu/abs/2022arXiv220311227Y">NASA/ADS</a></td>
+                </tr>
+                <tr class="white">
+                  <td class="w">"The Evolution of Binaries under the Influence
+                    of Radiation-Driven Winds from a Stellar Companion"<br>
+                    Schrøder, S.L., MacLeod, M., Ramirez-Ruiz, E., Mandel, I.,
+                    Fragos, T., Loeb, A., &amp; <b>Everson, R.W.</b><em></em>;
+                    <a href="https://ui.adsabs.harvard.edu/abs/2021arXiv210709675S">NASA/ADS</a></td>
+                </tr>
+                <tr class="white">
+                  <td class="w">"Successful Common Envelope Ejection and Binary
+                    Neutron Star Formation in 3D Hydrodynamics"<br>
+                    Law-Smith, J.A.P., <b>Everson, R.W.</b>, Ramirez-Ruiz, E.,
+                    de Mink, S.E., van Son, L.A.C., Götberg, Y., Zellmann, S.,
+                    Vigna-Gómez, A., Renzo, M., Wu, S., Schrøder, S.L., Foley,
+                    R.J., &amp; Hutchinson-Smith, T., Submitted to <em>MNRAS</em>;
+                    <a href="https://ui.adsabs.harvard.edu/abs/2020arXiv201106630L">NASA/ADS</a></td>
+                </tr>
+                <tr class="white">
+                  <td class="w">"On the Maximum Stellar Rotation to form a Black
+                    Hole without an Accompanying Luminous Transient"<br>
+                    Murguia-Berthier, A., Batta, A., Janiuk, A., Ramirez-Ruiz,
+                    E., Mandel, I., Noble, S.C., &amp; <b>Everson, R.W.</b>,
+                    2020, <em>The Astrophysical Journal Letters</em>, 901, L24;
+                    <a href="https://ui.adsabs.harvard.edu/abs/2020ApJ...901L..24M">NASA/ADS</a></td>
+                </tr>
+                <tr class="white">
+                  <td class="w">"The Art of Modeling Stellar Mergers and the
+                    Case of the B[e] Supergiant R4 in the Small Magellanic
+                    Cloud"<br>
+                    Wu, S., <b>Everson, R.W.</b>, Schneider, F.R.N.,
+                    Podsiadlowski, P., &amp; Ramirez-Ruiz, E., 2020, <em>The
+                      Astrophysical Journal</em>, 901, 44; <a href="https://ui.adsabs.harvard.edu/abs/2020ApJ...901...44W">NASA/ADS</a></td>
+                </tr>
+                <tr class="white">
+                  <td class="w">"Common Envelope Wind Tunnel: Range of
+                    Applicability and Self-Similarity in Realistic Stellar
+                    Envelopes"<br>
+                    <b>Everson, R.W.</b>, MacLeod, M., De, S., Macias, P., &amp;
+                    Ramirez-Ruiz, E., 2020, <em>The Astrophysical Journal</em>,
+                    899, 77; <a href="https://ui.adsabs.harvard.edu/abs/2020ApJ...899...77E">NASA/ADS</a></td>
+                </tr>
+                <tr class="white">
+                  <td class="w">"Common Envelope Wind Tunnel: The Effects of
+                    Binary Mass Ratio and Implications for the Accretion-Driven
+                    Growth of LIGO Binary Black Holes"<br>
+                    De, S., MacLeod, M., <b>Everson, R.W.</b>, Antoni, A.,
+                    Mandel, I., &amp; Ramirez-Ruiz, E., 2020, <em>The
+                      Astrophysical Journal</em>, 897, 130; <a href="https://ui.adsabs.harvard.edu/abs/2020ApJ...897..130D">NASA/ADS</a></td>
+                </tr>
+                <tr class="white">
+                  <td class="w">"An Observationally Constrained 3D
+                    Potential-field Source-surface Model for the Evolution of
+                    Longitude-dependent Coronal Structures"<br>
+                    <b>Everson, R.W.</b>, &amp; Dikpati, M., 2017, <i>The
+                      Astrophysical Journal</i>, 850, 152; <a href="http://adsabs.harvard.edu/abs/2017ApJ...850..152E">NASA/ADS</a></td>
+                </tr>
+                <tr class="white">
+                  <td class="w">
+                    <h4> Astronomer's Telegram </h4>
+                    "Spectroscopic Classification of Optical Transients with
+                    Keck II/ESI"<br>
+                    Liebler, C.N., Xhakaj, E., <b>Everson, R.W.</b>, &amp;
+                    Foley, R.J., 2017, ATel 10528; <a href="http://http://adsabs.harvard.edu/abs/2017ATel10528....1L">NASA/ADS</a></td>
+                </tr>
+                <tr class="white">
+                  <td class="w">"Spectroscopic Classification of Optical
+                    Transients with the Lick Shane Telescope"<br>
+                    <b>Everson, R.W.</b>, Rojas-Bravo, C., Pan, Y.-C., &amp;
+                    Foley, R.J., 2017, ATel 10518; <a href="http://adsabs.harvard.edu/abs/2017ATel10518....1E">NASA/ADS</a></td>
+                </tr>
+              </tbody>
+            </table>
+            <h3>Scientific Presentations</h3>
+            <table>
+              <tbody>
+                <tr class="white">
+                  <td class="w"> <b>Invited Talk:</b> "Rethinking Thorne-Żytkow
+                    Object Formation: Compelling Connections in the Time-Domain"
+                    <a href="https://meetings.aps.org/Meeting/APR24/Session/J09.3">Bulletin</a><br>
+                    <i>APS April Meeting</i>, Sacramento, CA</td>
+                  <td class="w" width="110pt">2024</td>
+                </tr>
+                <tr class="white">
+                  <td class="w"> <b>Talk:</b> "Moving Beyond the Common
+                    Envelope Energy Formalism"<br>
+                    <i>ARCS Scholar Symposium</i>, San Francisco, CA </td>
+                  <td class="w" width="110pt">2023</td>
+                </tr>
+                <tr class="white">
+                  <td class="w"> <b>Invited Talk:</b> "Frontiers in Modeling
+                    Common Envelope Evolution"<br>
+                    <i>Florida State University Astrophysics Seminar</i>,
+                    Tallahassee, FL</td>
+                  <td class="w" width="110pt">2021</td>
+                </tr>
+                <tr class="white">
+                  <td class="w"> <b>Invited Paper Talk:</b> "Common Envelope
+                    Wind Tunnel: Range of Applicability and Self-Similarity in
+                    Realistic Stellar Envelopes"<br>
+                    <i>AAS Journal Author Series</i>, <a href="https://www.youtube.com/watch?v=1x2q6RpITOg">Online</a></td>
+                  <td class="w" width="110pt">2020</td>
+                </tr>
+                <tr class="white">
+                  <td class="w"> <b>Talk:</b> "Envelope Structure and
+                    Application of the Drag Formalism"<br>
+                    <i>Flatiron Institute: Common Envelope Evolution 2019</i>,
+                    New York, NY</td>
+                  <td class="w" width="110pt">2019</td>
+                </tr>
+                <tr class="white">
+                  <td class="w"> <b>Talk:</b> "The Role of Common Envelope in
+                    Compact Binary Formation"<br>
+                    <i>UC Santa Cruz FLASH Seminar</i>, Santa Cruz, CA</td>
+                  <td class="w" width="110pt">2019</td>
+                </tr>
+                <tr class="white">
+                  <td class="w"> <b>Talk:</b> "Common Envelope Evolution and
+                    LIGO Source Populations"<br>
+                    <i>Aspen Winter Conference 2019: Astrophysics with
+                      Gravitational Wave Populations</i>, Aspen, CO</td>
+                  <td class="w" width="110pt">2019</td>
+                </tr>
+                <tr class="white">
+                  <td class="w"> <b>Poster:</b> "Effects of the Common Envelope
+                    Phase on Binary Black Hole Evolution"<br>
+                    <i>Deciphering the Violent Universe</i>, Playa del Carmen,
+                    MX</td>
+                  <td class="w" width="110pt">2017</td>
+                </tr>
+                <tr class="white">
+                  <td class="w"><b>Poster:</b> "Three-Dimensional
+                    Potential-Field Source-Surface Modeling of the Evolution of
+                    Coronal Structures" <a href="http://adsabs.harvard.edu/abs/2017AAS...22933904W">NASA/ADS</a>
+                    <br>
+                    <i>AAS 229th Meeting</i>, Grapevine, TX</td>
+                  <td class="w" width="110pt">2017</td>
+                </tr>
+                <tr class="white">
+                  <td class="w"> <b>Poster:</b> "3-D Potential-Field
+                    Source-Surface Modeling of the Evolution of Coronal
+                    Structures"<br>
+                    <i>2016 Quadrennial Physics Congress (PhysCon)</i>, San
+                    Francisco, CA</td>
+                  <td class="w">2016</td>
+                </tr>
+                <tr class="white">
+                  <td class="w"> <b>Poster:</b> "Thermal Stabilization in a
+                    High Vacuum Cryogenic Optical System" <a href="http://adsabs.harvard.edu/abs/2016APS..APR.D1005W">NASA/ADS</a>
+                    <br>
+                    <i>APS April Meeting</i>, Salt Lake City, UT</td>
+                  <td class="w">2016</td>
+                </tr>
+                <tr class="white">
+                  <td class="w"> <b>Poster:</b> "Optical Range Variability of
+                    the S4 0954+65 Blazar"<br>
+                    <i>University of Colorado Denver Research &amp; Creative
+                      Activities Symposium</i>, Denver, CO</td>
+                  <td class="w" width="110pt">2015</td>
+                </tr>
+              </tbody>
+            </table>
+            <!--<h3>Research Positions</h3>
+            <table>              <tbody>                <tr class="white">                  <td class="w">Graduate Research Fellow - Department of                    Astronomy &amp; Astrophysics, UC Santa Cruz, CA<br>                    Advisor: Enrico Ramirez-Ruiz</td>                  <td class="w" width="110pt">2017-2024</td>                </tr>                <tr class="white">                  <td class="w">Visiting Graduate Student Researcher - Dark                    Cosmology Centre, University of Copenhagen, Denmark<br>                    Advisor: Enrico Ramirez-Ruiz</td>                  <td class="w" width="110pt">2017-2019</td>                </tr>                <tr class="white">                  <td class="w">Visiting Student Researcher - High Altitude                    Observatory / NCAR, Boulder, CO<br>                    Advisor: Mausumi Dikpati</td>                  <td class="w">2016-2017</td>                </tr>                <tr class="white">                  <td class="w">REU Student Researcher - Solar &amp; Space                    Physics REU (NSF #1157020), University of Colorado                    Laboratory for Atmospheric &amp; Space Physics and High                    Altitude Observatory / NCAR, Boulder, CO<br>                    Advisors: Mausumi Dikpati, Joan Burkepile, Giuliana de Toma                  </td>                  <td class="w">2016</td>                </tr>                <tr class="white">                  <td class="w">REU Student Researcher - Physics &amp; Astronomy                    REU (NSF #1262890), Louisiana State University, Baton Rouge,                    LA<br>                    Advisor: Thomas Corbitt</td>                  <td class="w">2015</td>                </tr>              </tbody>            </table> -->
+            <h3>Mentoring and Advising</h3>
+            <table>
+              <tbody>
+                <tr class="white">
+                  <td class="w">Rewa Clark Bush (co-advised summer student)<br>
+                    "Black Hole Survival Guide: Searching for Milky Way Stars
+                    That Endure Partial Tidal Disruption" <em>(publication in
+                      prep)</em><br>
+                    <div class="indent"><em>~Recipient of 2021 SACNAS National
+                        Diversity in STEM Conference Presentation Award</em></div>
+                  </td>
+                  <td class="w" width="110pt">2021</td>
+                </tr>
+                <tr class="white">
+                  <td class="w">Alejandra Rosselli-Calderon (co-advised summer
+                    student)<br>
+                    "The Evolution of Binaries Embedded Within Common Envelopes"
+                    <a href="https://ui.adsabs.harvard.edu/abs/2024arXiv240408037R">NASA/ADS</a></td>
+                  <td class="w" width="110pt">2021</td>
+                </tr>
+                <tr class="white">
+                  <td class="w">Matthew Zárate (summer student, UC Berkeley
+                    undergraduate)<br>
+                    "LIGO's Mystery Black Hole Mergers and Common Envelope
+                    Evolution"</td>
+                  <td class="w" width="110pt">2020</td>
+                </tr>
+                <tr class="white">
+                  <td class="w">Tenley Hutchinson-Smith (UCSC master's project)<br>
+                    "Rethinking Thorne-Żytkow Object Formation: The Fate of
+                    X-ray Binary LMC X-4 and Implications for Ultra-long
+                    Gamma-ray Bursts" <a href="https://ui.adsabs.harvard.edu/abs/2023arXiv231106741H">NASA/ADS</a></td>
+                  <td class="w" width="110pt">2019-2022</td>
+                </tr>
+                <tr class="white">
+                  <td class="w">Samantha Wu (former UC Berkeley undergraduate)<br>
+                    "The Art of Modeling Stellar Mergers and the Case of the
+                    B[e] Supergiant R4 in the Small Magellanic Cloud" <a href="https://ui.adsabs.harvard.edu/abs/2020ApJ...901...44W">NASA/ADS</a><br>
+                    "The Fate and Long Term Evolution of Massive Stellar
+                    Mergers" <a href="http://adsabs.harvard.edu/abs/2019AAS...23336415W">NASA/ADS</a></td>
+                  <td class="w" width="110pt">2018-2019</td>
+                </tr>
+              </tbody>
+            </table>
+            <h3>Teaching and Training</h3>
+            <table>
+              <tbody>
+                <tr class="white">
+                  <td class="w">Teaching Assistant - <i>ASTR 111: Order of
+                      Magnitude Astrophysics</i>, UC Santa Cruz</td>
+                  <td class="w" width="110pt">2021</td>
+                </tr>
+                <tr class="white">
+                  <td class="w">Teaching Assistant - <i>ASTR 6: The Space-Age
+                      Solar System</i>, UC Santa Cruz</td>
+                  <td class="w" width="110pt">2019</td>
+                </tr>
+                <tr class="white">
+                  <td class="w">Pedagogy Training - Center for Innovations in
+                    Teaching and Learning, UC Santa Cruz<br>
+                    <div class="indent"> Antiracist Teaching, 2021</div>
+                    <div class="indent">Teaching as an Ethical Practice, 2022</div>
+                  </td>
+                  <td class="w" width="110pt"> <br>
+                  </td>
+                </tr>
+                <tr class="white">
+                  <td class="w">Mentorship Training - Lamat Institute, UC Santa
+                    Cruz<br>
+                    <div class="indent">Examining Power and Identity in
+                      Mentoring</div>
+                    <div class="indent">Practices and Tools for Intentional and
+                      Equity-Minded Mentoring</div>
+                    <div class="indent">Mental Health First Aid</div>
+                    <div class="indent">Trauma-Informed Training</div>
+                  </td>
+                  <td class="w" width="110pt"> 2021 </td>
+                </tr>
+              </tbody>
+            </table>
+            <h3>Press</h3>
+            <table>
+              <tbody>
+                <tr class="white">
+                  <td class="w"> “<a href="https://www.universityofcalifornia.edu/qa-rosa-w-everson"><font
+                        color="black"><u>Q&amp;A
+                          with Rosa W. Everson</u></font></a>”, University of
+                    California Marketing Communications, 26 Sept 2023</td>
+                </tr>
+                <tr class="white">
+                  <td class="w"> “<a href="https://news.ucsc.edu/2023/07/lamat-institute.html"><font
+                        color="black"><u>Celebrating
+                          the success of a human-centered approach to supporting
+                          emerging scientists</u></font></a>”, UC Santa Cruz
+                    University News, 21 Jul 2023</td>
+                </tr>
+                <tr class="white">
+                  <td class="w"> “<a href="https://news.ucsc.edu/2020/02/heising-simons-grants.html"><font
+                        color="black"><u>Bringing
+                          new perspectives to astronomy</u></font></a>”, UC
+                    Santa Cruz University News, 11 Feb 2020</td>
+                </tr>
+                <tr class="white">
+                  <td class="w">“<a href="https://goo.gl/6Ez2Vo"><font color="black"><u>An
+                          Observationally Constrained 3D Model</u></font></a>”,
+                    HAO/NCAR Publication Highlights, 24 Oct 2017</td>
+                </tr>
+                <tr class="white">
+                  <td class="w">“<a href="https://goo.gl/c2PZc5"><font color="black"><u>Rosa
+                          Wallace Receives the 2017 Chambliss Medal</u></font></a>”,
+                    HAO/NCAR News Archive, 31 Jan 2017</td>
+                </tr>
+              </tbody>
+            </table>
+            <h3>Workshops and Short Courses</h3>
+            <table>
+              <tbody>
+                <tr class="white">
+                  <td class="w">AstroAI Workshop - Center for Astrophysics |
+                    Harvard &amp; Smithsonian
+                    <div class="indent"><em>~Development and discussion of
+                        state-of-the-art machine learning algorithms in
+                        astrophysical applications; included training and
+                        hackathons in AI/ML models, foundational mathematics,
+                        and applications</em></div>
+                  </td>
+                  <td class="w">2024</td>
+                </tr>
+                <tr class="white">
+                  <td class="w">Code/Astro Workshop - CalTech
+                    <div class="indent"><em>~Developed and deployed an
+                        open-source Python software package with a small group;
+                        included training in software development, parallel
+                        programming, debugging, version control, and deployment</em></div>
+                  </td>
+                  <td class="w">2021</td>
+                </tr>
+                <tr class="white">
+                  <td class="w">MESA Summer School - UC Santa Barbara
+                    <div class="indent"><em>~Developed Fortran modules for MESA
+                        stellar evolution code; included problem-solving,
+                        debugging, and data analysis</em></div>
+                  </td>
+                  <td class="w">2018</td>
+                </tr>
+                <tr class="white">
+                  <td class="w">NBIA and DARK Summer School: Multi-Messengers
+                    from Compact Sources - Niels Bohr Institute, University of
+                    Copenhagen, Denmark
+                    <div class="indent"><em>~Studied the production mechanisms
+                        of neutrinos, gravitational waves, and EM radiation in
+                        compact astrophysical sources</em></div>
+                  </td>
+                  <td class="w">2018</td>
+                </tr>
+                <tr class="white">
+                  <td class="w">Physics of Macronovae - AlbaNova University
+                    Center, Stockholm, Sweden
+                    <div class="indent"><em>~Studied the multi-scale physical
+                        processes (and their numerical applications) associated
+                        with kilonovae/macronovae</em></div>
+                  </td>
+                  <td class="w">2018</td>
+                </tr>
+                <tr class="white">
+                  <td class="w">Kavli Summer Program in Astrophysics:
+                    Astrophysics with gravitational wave detections - Niels Bohr
+                    Institute, University of Copenhagen, Denmark
+                    <div class="indent"><em>~Advisor-sponsored (non-Fellow)
+                        attendee; studied binary evolution and compact object
+                        formation as informed by gravitational wave observations</em></div>
+                  </td>
+                  <td class="w">2017</td>
+                </tr>
+              </tbody>
+            </table>
+            <h3>Service</h3>
+            <table>
+              <tbody>
+                <tr class="white">
+                  <td class="w">Advisory Board Member - Lamat Institute, Dept.
+                    of Astronomy &amp; Astrophysics, UC Santa Cruz</td>
+                  <td class="w">2021-present</td>
+                </tr>
+                <tr class="white">
+                  <td class="w">Committee Member - Diversity, Equity, &amp;
+                    Inclusion Committee, Dept. of Astronomy &amp; Astrophysics,
+                    UC Santa Cruz</td>
+                  <td class="w">2021-2022</td>
+                </tr>
+                <tr class="white">
+                  <td class="w">Department Representative - Dean's Graduate
+                    Leadership Council, Division of Physical &amp; Biological
+                    Sciences, UC Santa Cruz</td>
+                  <td class="w">2020-2021</td>
+                </tr>
+                <tr class="white">
+                  <td class="w">Advisory Council Member &amp; Fellow -
+                    Osterbrock Leadership Program, Dept. of Astronomy &amp;
+                    Astrophysics, UC Santa Cruz</td>
+                  <td class="w" width="110pt">2018-2024</td>
+                </tr>
+                <tr class="white">
+                  <td class="w">Founder &amp; Program Director - <a href="https://sites.google.com/ucsc.edu/bridge-scholarship/">
+                      Bridge Scholarship Program</a>, UC Santa Cruz<br>
+                    <div class="indent"><i>With generous support from UCSC Women
+                        in Physics &amp; Astronomy and the Osterbrock Mini-Grant
+                        Program</i></div>
+                  </td>
+                  <td class="w">2017-2022</td>
+                </tr>
+                <tr class="white">
+                  <td class="w">Scholarship Committee Chair - Women in Physics
+                    &amp; Astrophysics, UC Santa Cruz</td>
+                  <td class="w">2017-2022</td>
+                </tr>
+                <tr class="white">
+                  <td class="w">Committee Member - Graduate Admissions
+                    Committee, Dept. of Astronomy &amp; Astrophysics, UC Santa
+                    Cruz</td>
+                  <td class="w" width="110pt">2019</td>
+                </tr>
+                <tr class="white">
+                  <td class="w">Graduate Student Representative - Vice Provost
+                    &amp; Dean of Graduate Studies Search Committee, UC Santa
+                    Cruz</td>
+                  <td class="w" width="110pt">2018</td>
+                </tr>
+                <tr class="white">
+                  <td class="w">Department Representative - Graduate Student
+                    Association, UC Santa Cruz</td>
+                  <td class="w" width="110pt">2017-2018</td>
+                </tr>
+                <tr class="white">
+                  <td class="w">National Council Member - Society of Physics
+                    Students <br>
+                    <div class="indent"> Associate Zone Councilor (Student
+                      Representative) for Colorado &amp; Wyoming<br>
+                      Co-Chair - SPS National Committee on Inclusiveness</div>
+                  </td>
+                  <td class="w">2015-2017</td>
+                </tr>
+                <tr class="white">
+                  <td class="w">Chapter President - Society of Physics Students,
+                    CU Denver</td>
+                  <td class="w">2015-2017</td>
+                </tr>
+                <tr class="white">
+                  <td class="w">Chapter Secretary - Sigma Pi Sigma, CU Denver</td>
+                  <td class="w">2017</td>
+                </tr>
+                <tr class="white">
+                  <td class="w">Department Representative - Dean's Student
+                    Advisory Council, CU Denver College of Liberal Arts &amp;
+                    Sciences</td>
+                  <td class="w">2015-2016</td>
+                </tr>
+              </tbody>
+            </table>
+            <h3>Outreach and Service Presentations</h3>
+            <table>
+              <tbody>
+                <tr class="white">
+                  <td class="w">UC Santa Cruz: Lamat Institute<br>
+                    <i>Invited Panelist</i>: NSF Graduate Research Fellowship
+                    Program Panel</td>
+                  <td class="w">2022</td>
+                </tr>
+                <tr class="white">
+                  <td class="w">AAS National Osterbrock Leadership Program, AAS
+                    240th Meeting, Pasadena, CA<br>
+                    <i>Splinter Session Organizer</i>: "Cultivating the Next
+                    Generation of Leaders"</td>
+                  <td class="w">2022</td>
+                </tr>
+                <tr class="white">
+                  <td class="w">University of Colorado Boulder: REU Program in
+                    Solar and Space Physics with the Boulder Solar Alliance<sup>▲</sup><br>
+                    <i>Workshop:</i> "Applying to Grad School"</td>
+                  <td class="w" width="110pt">2021, 2022</td>
+                </tr>
+                <tr class="white">
+                  <td class="w">University of Colorado Boulder: REU Program in
+                    Solar and Space Physics with the Boulder Solar Alliance<sup>▲</sup><br>
+                    <i>Panelist:</i> REU Near Peer Panel</td>
+                  <td class="w" width="110pt">2021</td>
+                </tr>
+                <tr class="white">
+                  <td class="w">UC Santa Cruz: Women in Physics &amp;
+                    Astrophysics<br>
+                    <i>Workshop:</i> "Grad School Application Workshop"</td>
+                  <td class="w" width="110pt">2021</td>
+                </tr>
+                <tr class="white">
+                  <td class="w">UC Santa Cruz: Osterbrock Leadership Program<br>
+                    <i>Facilitator:</i> "Your Digital Brand: Cultivating an
+                    online presence in preparation for the academic job market"</td>
+                  <td class="w" width="110pt">2020</td>
+                </tr>
+                <tr class="white">
+                  <td class="w">UC Santa Cruz: Lamat REU Program on
+                    High-Performance Computing in Astrophysics<br>
+                    <i>Workshop:</i> "Preparing Your Talk"<br>
+                    <i>Workshop:</i> "Giving Your Talk" </td>
+                  <td class="w" width="110pt">2020, 2021, 2022, 2023</td>
+                </tr>
+                <tr class="white">
+                  <td class="w">University of Colorado Boulder: REU Program in
+                    Solar and Space Physics with the Boulder Solar Alliance<sup>▲</sup><br>
+                    <i>Guest Speaker:</i> REU Experience and Preparing for
+                    Graduate School</td>
+                  <td class="w" width="110pt">2020</td>
+                </tr>
+                <tr class="white">
+                  <td class="w">Stanford University: APS Bridge Program &amp;
+                    National Mentoring Community Conference<sup>▲</sup><br>
+                    <i>Panelist:</i> Succeeding in Graduate School in Physics</td>
+                  <td class="w" width="110pt">2018</td>
+                </tr>
+                <tr class="white">
+                  <td class="w">UC Santa Cruz: Society of Physics Students /
+                    Women in Physics &amp; Astrophysics Mentoring Program<br>
+                    <i>Panelist:</i> Research and the Path to Graduate School</td>
+                  <td class="w" width="110pt">2018</td>
+                </tr>
+                <tr class="white">
+                  <td class="w">Metropolitan State University of Denver:
+                    Feminist Alliance<sup>▲</sup><br>
+                    <i>Talk:</i> "Women in STEM"</td>
+                  <td class="w">2016</td>
+                </tr>
+                <tr class="white">
+                  <td class="w">Denver Boys &amp; Girls Club / University of
+                    Colorado Denver Society of Physics Students<br>
+                    <i>Organizer:</i> Be a Scientist Day</td>
+                  <td class="w">2016</td>
+                </tr>
+                <tr class="white">
+                  <td class="w">University of Colorado Denver: Society of
+                    Physics Students Colloquium Series<br>
+                    <i>Talk:</i> "Landing REUs and Internships"</td>
+                  <td class="w">2016</td>
+                </tr>
+                <tr class="white">
+                  <td class="w">United States Air Force Academy: Society of
+                    Physics Students Zone 14 Meeting<sup>▲</sup><br>
+                    <i>Talk:</i> "Opening Doors with SPS: Yourself, Your
+                    Chapter, Your Future"</td>
+                  <td class="w">2016</td>
+                </tr>
+                <tr class="white">
+                  <td class="w">Denver Boys &amp; Girls Club / University of
+                    Colorado Denver Society of Physics Students<br>
+                    <i>Organizer:</i> Quarterly Off-Site After-School Science
+                    Program</td>
+                  <td class="w">2015-2016</td>
+                </tr>
+                <tr class="white">
+                  <td class="w">Colorado School of Mines: Equality Through
+                    Awareness Colloquium Series<sup>▲</sup><br>
+                    <i>Talk:</i> "There is No One Path to Physics: From Artist
+                    to Scientist"</td>
+                  <td class="w">2015</td>
+                </tr>
+                <tr class="white">
+                  <td class="w">University of Colorado Denver: Society of
+                    Physics Students Colloquium Series<br>
+                    <i>Talk:</i> "REUs and Internships"</td>
+                  <td class="w">2015</td>
+                </tr>
+                <tr class="white">
+                  <td class="w"><sup>▲</sup> <font size="2">Invited<br>
+                    </font></td>
+                  <td class="w"><br>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+        </div>
+      </section>
+    </div>
+    <!-- Footer -->
+    <footer id="footer">
+      <div class="copyright">
+        <ul class="icons">
+          <li><a href="http://www.linkedin.com/in/rosaeverson" class="icon fa-linkedin">
+              <span class="label">LinkedIn</span></a></li>
+        </ul>
+        <p>© R.W. Everson 2024. All rights reserved. Design: <a href="https://templated.co">TEMPLATED</a>.</p>
+      </div>
+    </footer>
+    <!-- Scripts -->
+    <script src="assets/js/jquery.min.js"></script>
+    <script src="assets/js/jquery.scrolly.min.js"></script>
+    <script src="assets/js/jquery.scrollex.min.js"></script>
+    <script src="assets/js/skel.min.js"></script>
+    <script src="assets/js/util.js"></script>
+    <script src="assets/js/main.js"></script>
+  </body>
+</html>
